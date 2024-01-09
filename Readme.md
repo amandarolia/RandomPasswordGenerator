@@ -24,6 +24,9 @@ The Random Password Generator is a web-based application that allows users to ge
 5. The password is automatically copied to the clipboard, and a notification will confirm the action.
 6. Copy and use the password as needed.
 
+## Screenshots
+![Demo - Generating a strong password](./Screenshots/image.png)
+
 ## Credits
 
 This project was made possible with the help of [ChatGPT](https://openai.com/), a powerful language model created by OpenAI. Special thanks to [Amish Aphabba](https://github.com/amishaphabba) for the initial inspiration.
@@ -34,4 +37,5 @@ Aman Darolia (that's me!) made additional enhancements using developer tools, in
 
 ## License
 
-This Random Password Generator project is licensed under the [MIT License](LICENSE).
+This Random Password Generator project is licensed under the [MIT License](https://mit-license.org/).
+
